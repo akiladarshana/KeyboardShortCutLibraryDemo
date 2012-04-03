@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, KeyboardShortcutDemoActivity!</string>
+    <string name="app_name">KeyboardShortcutDemo</string>
+    <string name="instruction_string">Press any key!</string>
+
+</resources>
